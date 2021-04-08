@@ -35,3 +35,8 @@ Lost Fantasy Itch.io Description:
 
 - Playable Windows and Mac Builds of the Game:  
 [![The Flowers Nightmare Itch.io](https://github.com/OsamahAnsari/ML-Hummingbirds/blob/master/The%20Flowers%20Nightmare.PNG)](https://royalguardstudios.itch.io/the-flowers-nightmare "The Flower's Nightmare: Attack of the ML Hummingbots by Royal Guard Studios")	
+
+
+## Warning
+
+To any future student researchers coming across this repository, it does not contain the Libraries folder or many of the third party assets downloaded and used for this project due to GitHub's file size constraints. For the full list of assets used please see the CREDITS.txt file under the Assets folder.
