@@ -1,0 +1,26 @@
+-----------CREDITS-----------
+
+Game Scene Assets:
+1. Hummingbirds - Adam Kelly of ImmersiveLimit.com
+​   https://learn.unity.com/course/ml-agents-hummingbirds
+
+2. Player Model - BitGem
+   https://assetstore.unity.com/packages/3d/characters/humanoids/npc-character-proto-series-132051
+
+3. Low Poly Forest Vegetation - Polymount
+   https://assetstore.unity.com/packages/3d/vegetation/lowpoly-vegetation-season-pack-lite-96083
+
+4. Star Skybox - Geoff Dallimore
+   https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333
+
+5. Low Poly Flowers - chlyang​​
+   https://assetstore.unity.com/packages/3d/vegetation/plants/lowpoly-flowers-47083
+
+Music Assets:
+1. Title Screen Background Music
+   Darren Curtis - Demented Nightmare
+   https://www.youtube.com/watch?v=VmJ5C5l3WWg&ab_channel=DarrenCurtisMusic
+
+2. In-Game Background Music
+   Rachel F. Williams - The Chase 
+   https://www.youtube.com/watch?v=KiH95Om495I&ab_channel=RachelF.Williams-MusicComposer
