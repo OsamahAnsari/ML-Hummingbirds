@@ -8,10 +8,10 @@
 
 This repository showcases the end result of the research conducted in Fall 2020 at the University of Michigan for my independent research project, **[Project Talos](https://projecttalos.com/)**. 
 Project Talos sought to research into the application of machine learning in game development. 
-The end goals of this project were as follows:
-	- Create a simple, yet enjoyable game centered around machine learning agents
-	- Documenting the process on a weekly basis
-	- Show the viability of machine learning in game development
+The end goals of this project were as follows:  
+- Create a simple, yet enjoyable game centered around machine learning agents
+- Documenting the process on a weekly basis
+- Show the viability of machine learning in game development
 
 
 ## Results
